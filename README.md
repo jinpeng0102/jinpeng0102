@@ -9,7 +9,4 @@
 - 💞️ I’m looking to collaborate on RESTful backend services, Microservices, Web applications and Websites.
 - 📫 How to reach me:
   - Email: jinpeng0102@gmail.com
-  - Phone number: +8613390151439
-  - WhatsApp: +8613390151439
   - Skype: live:jinpeng0429_1
-  - Telegram: @weilemingtian
